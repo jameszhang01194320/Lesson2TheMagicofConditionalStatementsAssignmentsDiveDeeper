@@ -1,4 +1,5 @@
 # 2. The Greatest Showdown
+
 # Task 1: Identify the Greatest Write a Python program that prompts the user to enter three numbers. The program should then identify and print out the largest number among the three.
 # Expected Outcome: If we provide the numbers 3, 3, and 4, it should print out that "The largest number is 4.".
 num1 = float(input("Enter the first number: "))
